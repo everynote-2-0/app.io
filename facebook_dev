@@ -1,0 +1,140 @@
+
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>Developer News</title>
+<description> Get the latest news from Facebook for Developers </description>
+<lastBuildDate>Fri, 18 Jan 2019 14:10:00 -0800</lastBuildDate>
+<link>https://developers.facebook.com/blog/</link>
+<item>
+<title>New Rate Limit Console Launches in App Dashboard</title>
+<description>
+We're launching a new console in the app dashboard that provides developers with in-depth insight into the rate limiting system and helps them diagnose and prevent rate limiting issues.
+</description>
+<link>
+https://developers.facebook.com/blog/post/2019/01/18/new-rate-limit-console-launches-in-app-dashboard/
+</link>
+<pubDate>Fri, 18 Jan 2019 14:10:00 -0800</pubDate>
+<content:encoded>
+<![CDATA[
+<div><div></div><div class=""><div class=""><p>We&#039;re launching a new console in the app dashboard that provides developers with in-depth insight into the <a href="/docs/graph-api/advanced/rate-limiting">rate limiting system</a> and helps them diagnose and prevent rate limiting issues.</p><p>Rate limits are the maximum number of calls an app can make to the Facebook APIs within a certain time period. These rate limits protect the stability of our system...</p></div></div></div>
+]]>
+</content:encoded>
+</item>
+<item>
+<title>
+New Google Play Policy Affects Use of Account Kit Permission
+</title>
+<description>
+On Jan. 9, 2019, Google's new policy about certain SMS-related permissions will come into effect. The new restrictions will apply to the use of the RECEIVE_SMS permission that Facebook's Account Kit for Android uses in some cases.
+</description>
+<link>
+https://developers.facebook.com/blog/post/2019/01/08/new-google-play-policy-affects-account-kit-permission/
+</link>
+<pubDate>Tue, 08 Jan 2019 14:10:00 -0800</pubDate>
+<content:encoded>
+<![CDATA[
+<div><div></div><div class=""><div class=""><p>On Jan. 9, 2019, <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fsupport.google.com%2Fgoogleplay%2Fandroid-developer%2Fanswer%2F9047303%3Ffbclid%3DIwAR3HxQ6srvK6UW2cm0xMD4moYmj7nSyuTRmHXU-uNoxGXwCUPomQejWYBMk&amp;h=AT0r5IxiegTUqwtzeD4Xxi1KicaTDVHm-Y-EkDzb-hGMhvRx5up_djQuNQHMY9nrzyLbgiK0uHzckBWsvDDpj-bkUe2uIK4x3aehRH_9pdNmnzBGt9HJHCLN-ESL-V7sGr1lnDyx" target="_blank" rel="noopener nofollow" data-lynx-mode="asynclazy">Google&#039;s new policy</a> about certain SMS-related permissions will come into effect. The new restrictions will apply to the use of the <code>RECEIVE_SMS</code> permission that Facebook&#039;s Account Kit for Android uses in some cases.</p><p></p>...</div></div></div>
+]]>
+</content:encoded>
+</item>
+<item>
+<title>
+Introducing New Getting Started Guide and App Review Design
+</title>
+<description>
+We're improving the experience of building on the Facebook platform with a new getting started guide that surfaces educational resources and helps developers navigate the process of onboarding. To make the app review process easier for developers, we're also launching a new design that breaks down the process into three manageable steps.
+</description>
+<link>
+https://developers.facebook.com/blog/post/2018/12/17/new-getting-started-guide-and-app-review-design/
+</link>
+<pubDate>Mon, 17 Dec 2018 12:30:00 -0800</pubDate>
+<content:encoded>
+<![CDATA[
+<div><div></div><div class=""><div class=""><p>We&#039;re improving the experience of building on the Facebook platform with a new getting started guide that surfaces educational resources and helps developers navigate the process of onboarding. To make the app review process easier for developers, we&#039;re also launching a new design that breaks down the process into three manageable steps.</p><p><b>New getting...</b></p></div></div></div>
+]]>
+</content:encoded>
+</item>
+<item>
+<title>
+Notifying our Developer Ecosystem about a Photo API Bug
+</title>
+<description>
+Our internal team discovered a photo API bug that may have affected people who used Facebook Login and granted permission to third-party apps to access their photos. We have fixed the issue but, because of this bug, some third-party apps may have had access to a broader set of photos than usual for 12 days between September 13 to September 25, 2018.
+</description>
+<link>
+https://developers.facebook.com/blog/post/2018/12/14/notifying-our-developer-ecosystem-about-a-photo-api-bug/
+</link>
+<pubDate>Fri, 14 Dec 2018 06:00:00 -0800</pubDate>
+<content:encoded>
+<![CDATA[
+<div><div></div><div class=""><div class=""><p>Our internal team discovered a photo API bug that may have affected people who used Facebook Login and granted permission to third-party apps to access their photos. We have fixed the issue but, because of this bug, some third-party apps may have had access to a broader set of photos than usual for 12 days between September 13 to September 25,...</p></div></div></div>
+]]>
+</content:encoded>
+</item>
+<item>
+<title>
+Facebook Launches Verification for Individual Developers
+</title>
+<description>
+As announced earlier this year, all apps using certain Facebook Platform APIs need to go through a comprehensive review process. As part of this review, developers need to verify the business associated with their app by connecting to a Business Manager account and providing business details and documentation.
+</description>
+<link>
+https://developers.facebook.com/blog/post/2018/12/10/verification-for-individual-developers/
+</link>
+<pubDate>Mon, 10 Dec 2018 13:30:00 -0800</pubDate>
+<content:encoded>
+<![CDATA[
+<div><div></div><div class=""><div class=""><p>As <a href="/blog/post/2018/05/01/enhanced-developer-app-review-and-graph-api-3.0-now-live/">announced</a> earlier this year, all apps using certain Facebook Platform APIs need to go through a comprehensive review process. As part of this review, developers need to <a href="/docs/apps/review/#business-verification">verify the business</a> associated with their app by connecting to a Business Manager account and providing business details and documentation.</p><p>However, we&#039;ve heard from many...</p></div></div></div>
+]]>
+</content:encoded>
+</item>
+<item>
+<title>
+Join Us at F8 2019 on April 30 & May 1 in San Jose, CA
+</title>
+<description>
+F8, Facebook's annual developer conference, spotlights our global community, the latest technology from our family of apps, and the future we are building together. F8 2019 will happen April 30 and May 1, 2019 at the McEnery Convention Center in San Jose, CA.
+</description>
+<link>
+https://developers.facebook.com/blog/post/2018/12/04/join-us-f8-2019/
+</link>
+<pubDate>Tue, 04 Dec 2018 10:00:00 -0800</pubDate>
+<content:encoded>
+<![CDATA[
+<div><div></div><div class=""><div class=""><p>F8, Facebook&#039;s annual developer conference, spotlights our global community, the latest technology from our family of apps, and the future we are building together. F8 2019 will happen April 30 and May 1, 2019 at the <u><a href="https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.sanjose.org%2Fconvention-center%3Ffbclid%3DIwAR2q2ugNTblu9sCPA3Ib2xPa_OlXtmWLsD1XMvhkT273hNEmZb4oZL7Sos0&amp;h=AT2YuV75N6c05Ff2HYgsu3LQiPQBvNG6maDM7VAe7-WoA3EHAEHEDO6mYJHkm1hQDp9f3KJioveV-kEDx4E2Zv4QVwf92ORy4vnZN2nd-Aoqrsgtazv5wWEH1dYDCa2yBxIQJJpy" target="_blank" rel="noopener nofollow" data-lynx-mode="asynclazy">McEnery Convention Center</a></u> in San Jose, CA.</p><p>This year we celebrate the developers, creators, entrepreneurs and innovators building with...</p></div></div></div>
+]]>
+</content:encoded>
+</item>
+<item>
+<title>New API Release Process</title>
+<description>
+On Friday, November 2nd, as part of our ongoing work to enhance privacy and security on the Facebook platform, we're implementing additional steps to our API release process.
+</description>
+<link>
+https://developers.facebook.com/blog/post/2018/11/01/new-api-release-process/
+</link>
+<pubDate>Thu, 01 Nov 2018 13:15:00 -0700</pubDate>
+<content:encoded>
+<![CDATA[
+<div><div></div><div class=""><div class=""><p>On Friday, November 2nd, as part of our ongoing work to enhance privacy and security on the Facebook platform, we&#039;re implementing additional steps to our API release process, which may likely lead to a decrease in the number of APIs that we&#039;ll ship in the next few months. This new process may slow down the development of some Facebook platform...</p></div></div></div>
+]]>
+</content:encoded>
+</item>
+<item>
+<title>Instagram Graph API: Hashtag Search Launch</title>
+<description>
+Today, we are launching a new Hashtag Search feature for Businesses on Instagram. With this new feature, businesses will still be able to discover content, measure the reach of their marketing campaigns, and understand public sentiment around their brand.
+</description>
+<link>
+https://developers.facebook.com/blog/post/2018/10/31/instagram-graph-api-hashtag-search-launch/
+</link>
+<pubDate>Wed, 31 Oct 2018 09:00:00 -0700</pubDate>
+<content:encoded>
+<![CDATA[
+<div><div></div><div class=""><div class=""><p>Today, we are launching a new Hashtag Search feature for Businesses on Instagram. With this new feature, businesses will still be able to discover content, measure the reach of their marketing campaigns, and understand public sentiment around their brand. However, we will now be limiting the number of unique hashtags that can be pulled by...</p></div></div></div>
+]]>
+</content:encoded>
+</item>
+</channel>
+</rss>

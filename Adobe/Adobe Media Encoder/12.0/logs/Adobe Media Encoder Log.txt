@@ -1,0 +1,12 @@
+Log file created: Tue Mar 12 15:24:58 2019
+-------------------------------------------
+Ticks = 375      <4469077440> <DynamicLink> <5> Attempting to launch dynamiclinkmanager
+Ticks = 375      <4469077440> <DynamicLink> <5> /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/dynamiclinkmanager.app
+Ticks = 430      <4469077440> <DynamicLink> <5> Increase wait time to 2
+Ticks = 1101      <4469077440> <DS> <5> GPUSniffer launching with test mask 254
+Ticks = 6595      <4469077440> <AMEApp> <0> Time taken to load MediaCore plugins: 5122.77 milliseconds.
+Ticks = 8171      <4469077440> <AMEApp> <1> Entering RunEventLoop
+Ticks = 73480190      <4469077440> <AMEApp> <1> Exited RunEventLoop
+-------------------------------------------
+Log file closed: Wed Mar 13 11:49:39 2019
+

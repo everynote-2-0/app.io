@@ -1,0 +1,18 @@
+Machine:   SJH616-16M.local in domain 
+User:      graphic
+Mode:      64-Bit
+Display:   Display not detectable
+Driver:    Driver not detectable
+CPU:       Name: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz
+           Model: 158, Family: 6, Stepping: 9 
+           Total Threads: 8
+           Features: MMX SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2 AVX F16C FMA AVX2 RDTSCP CLMUL AES RDRAND RDSEED POPCNT ABM BMI BMI2 ADX MOVBE
+Base path: /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/MacOS/
+Arguments: 
+
+11:48:11 [IrLog]           LogFile initialized
+11:48:11 [GlobalSettings]  Loading user settings from /Users/graphic/Documents/Adobe/Lumetri/9.0/settings/User_Settings.xml
+11:51:40 [GlobalSettings]  Last object UID: 0x00000060
+11:51:40 [IrLog]           Closing log file
+
+03/12/19

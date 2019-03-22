@@ -1,0 +1,306 @@
+Log file created: Tue Mar 12 11:47:52 2019
+-------------------------------------------
+Ticks = 1247      <4396062144> <DS> <5> GPUSniffer launching with test mask 254
+Ticks = 7388      <4396062144> <AMEApp> <0> Time taken to load MediaCore plugins: 5661.98 milliseconds.
+Ticks = 9823      <4396062144> <AMEApp> <1> Entering RunEventLoop
+Ticks = 9987      <4396062144> <ALOG> <5> U Birth U Birth
+Ticks = 9987      <4396062144> <ALOG> <5> U CPU Data LogicalCores:0, PhysicalCores:0, MMX:1, SSE:1 SSE2:1, SSE3:0, SSSE(MNI):0, SSE4_1:0, SSE4_2:0
+Ticks = 9988      <4396062144> <ALOG> <5> U Up_InitializeMemorySubsystem fudgebuffer=262144000, goDirect=0
+Ticks = 9988      <4396062144> <ALOG> <5> U Birth U Hog Birth
+Ticks = 9992      <4396062144> <AELibInit> <5> aelib::Birth took 4.37193 milliseconds
+Ticks = 9993      <4396062144> <ALOG> <5> FILE Birth FILE Birth
+Ticks = 9993      <4396062144> <ALOG> <5> M Birth M Birth
+Ticks = 9993      <4396062144> <ALOG> <5> RND Birth RND Birth
+Ticks = 9994      <4396062144> <ALOG> <5> PREF Birth PREF Birth
+Ticks = 10026      <4396062144> <ALOG> <5> VAL Birth VAL Birth
+Ticks = 10026      <4396062144> <ALOG> <5> MC Birth MC Birth
+Ticks = 10028      <4396062144> <ALOG> <5> COR Birth COR Birth
+Ticks = 10101      <4396062144> <ALOG> <5> COR Birth COR Birth Complete
+Ticks = 10162      <4396062144> <ALOG> <5> PLUG Birth PLUG Birth
+Ticks = 10162      <4396062144> <ALOG> <5> TDB Birth TDB Birth
+Ticks = 10162      <4396062144> <ALOG> <5> TDB Birth TDB StreamBase Birth
+Ticks = 10163      <4396062144> <ALOG> <5> PF Birth PF Birth
+Ticks = 10165      <4396062144> <ALOG> <5> P Birth P Birth
+Ticks = 10166      <4396062144> <ALOG> <5> TXT Birth TXT Birth
+Ticks = 10170      <4396062144> <ALOG> <5> PREM MediaCoreData About to Init PRM
+Ticks = 10172      <4396062144> <ALOG> <5> PIN Birth PIN Birth
+Ticks = 10172      <4396062144> <ALOG> <5> PIN Birth PIN PS3 Birth
+Ticks = 10172      <4396062144> <ALOG> <5> PIN Birth PIN RLA Birth
+Ticks = 10173      <4396062144> <ALOG> <5> PIN Birth PIN CIN Birth
+Ticks = 10173      <4396062144> <ALOG> <5> PIN Birth PIN EI Birth
+Ticks = 10173      <4396062144> <ALOG> <5> PIN Birth PIN ZPIC Birth
+Ticks = 10173      <4396062144> <ALOG> <5> PIN Birth PIN JSX Birth
+Ticks = 10173      <4396062144> <ALOG> <5> PIN Birth PIN YM Birth
+Ticks = 10174      <4396062144> <ALOG> <5> PIN Birth PIN PS Birth
+Ticks = 10174      <4396062144> <ALOG> <5> PIN Birth PIN PST Birth
+Ticks = 10174      <4396062144> <ALOG> <5> PIN Birth PIN D_MC Birth
+Ticks = 10188      <4396062144> <ALOG> <5> SND Birth SND Birth
+Ticks = 10189      <4396062144> <ALOG> <5> OM Birth OM Birth
+Ticks = 10195      <4396062144> <ALOG> <5> FLT Birth ALOG Birth
+Ticks = 10202      <4396062144> <ALOG> <5> PR Birth PR Birth
+Ticks = 10215      <4396062144> <ALOG> <5> BEE Birth BEE Birth
+Ticks = 10216      <4396062144> <BEE_WorkQueue> <5> thread main stack size: 8388608
+Ticks = 10217      <123145425846272> <BEE_WorkQueue> <5> thread render stack size: 8388608
+Ticks = 10217      <123145426382848> <BEE_WorkQueue> <5> thread render stack size: 524288
+Ticks = 10221      <4396062144> <BEE_WorkQueue> <5> BEE_Project::TimestampGetNext ZANZIBAR-3: cannot produce timestamp, frozen=0, open=0
+Ticks = 10221      <4396062144> <BEE_WorkQueue> <5> BEE_Project::TimestampGetNext ZANZIBAR-3: cannot produce timestamp, frozen=0, open=0
+Ticks = 10221      <4396062144> <BEE_WorkQueue> <5> BEE_Project::TimestampGetNext ZANZIBAR-3: cannot produce timestamp, frozen=0, open=0
+Ticks = 10222      <4396062144> <ALOG> <5> BEE Birth BEE Eval Birth
+Ticks = 10226      <4396062144> <ALOG> <5> BEE Birth BEE Stream Birth
+Ticks = 10289      <4396062144> <ALOG> <5> BEE Birth BEE TextAnimatorDispatch Birth
+Ticks = 10300      <4396062144> <ALOG> <5> BEE Birth BEE TextListener Birth
+Ticks = 10300      <4396062144> <ALOG> <5> BEE Birth BEE StyleListener Birth
+Ticks = 10300      <4396062144> <ALOG> <5> FRP Birth FRP PinListener Birth
+Ticks = 10370      <4396062144> <MEE_Plugins> <5> /Applications/Adobe Media Encoder CC 2018/Adobe Media Encoder CC 2018.app/Contents/Plug-ins/(AfterEffectsLib)
+Ticks = 11063      <4396062144> <FLT> <1> Potential oversize effect matchname found: Mettle SkyBox Chromatic Aberrations, actual length: 36, matchname limit: 31
+Ticks = 11154      <4396062144> <Plug_Scan> <1> Total: 0.783679, PiPL: 0.496457
+Ticks = 11566      <4396062144> <MEE_Plugins> <2> Error while loading AEGP plugin: Pro Import, error: 3
+Ticks = 11867      <123145434783744> <ALOG> <5> COR CORp_RegisterPSLThread initialized PSL
+Ticks = 11917      <4396062144> <ALOG> <5> U U_EvaluateMemoryInUseAdjustment resident=413085696, virtual=6004707328, delta=-5591621632
+Ticks = 11917      <4396062144> <ALOG> <5> U U_SetMemoryInUseAdjustment setting adjustment from 0 to -5591621632
+Ticks = 32814      <123145399922688> <ExporterMPEG4> <5> Looking for H/W codecs for H.264
+Ticks = 32836      <123145399922688> <EncoderStateH264> <5> Found H/W codec for H.264 - Apple VideoToolBox Hardware Acceleration
+Ticks = 33579      <4396062144> <Assert> <0> Debug Assert failed!
+Expression: false
+Unknown exception
+Process: Adobe Media Encoder CC 2018
+Process ID: 2554
+Thread ID: 4396062144
+File: /ame12.1.1/shared/adobe/MediaCore/ASL/Foundation/Src/DVAErrorManager.cpp
+Line: 54
+Function: virtual std::int32_t ASL::DVAErrorManager::ExecuteFunctionWithTopLevelExceptionHandler(boost::function0<std::int32_t>)
+Callstack:
+ASL::DVAErrorManager::ExecuteFunctionWithTopLevelExceptionHandler(boost::function0<int>)
+ASL::Broadcaster::BroadcastMessage(ASL::Message const&)
+ASL::StationUtils::BroadcastMessage(dvacore::utility::ImmutableString const&, ASL::Message const&)
+AMEBatch::BatchEncoder::OnUpdateProgress(ASL::InterfaceRef<AMEBatch::BatchItem, AMEBatch::IBatchItem>, float) const
+AMEBatch::BatchEncoder::EncodingItemList::OnEncodeProgress(ASL::InterfaceRef<EncoderHost::IEncoder, EncoderHost::IEncoder>, float)
+boost::_bi::bind_t<void, boost::_mfi::mf2<void, AMEBatch::BatchEncoder::EncodingItemList, ASL::InterfaceRef<EncoderHost::IEncoder, EncoderHost::IEncoder>, float>, boost::_bi::list3<boost::_bi::value<AMEBatch::BatchEncoder::EncodingItemList*>, boost::_bi::value<ASL::InterfaceRef<EncoderHost::IEncoder, EncoderHost::IEncoder> >, boost::_bi::value<float> > >::operator()()
+dvacore::threads::(anonymous namespace)::FunctionQueue::FlushFromExecutorThread(bool)
+boost::detail::function::void_function_obj_invoker0<boost::function<void ()>, void>::invoke(boost::detail::function::function_buffer&)
+int dvacore::config::ErrorManager::ExecuteFunction<void>(boost::function0<void>*, void*)
+ASL::DVAErrorManager::ExecuteFunctionWithTopLevelExceptionHandler(boost::function0<int>)
+void dvacore::config::ErrorManager::ExecuteFunctionWithTopLevelExceptionHandler<void>(boost::function0<void>, bool*)
+void dvacore::config::ExecuteTopLevelFunction<void>(boost::function0<void>, bool*)
+dvacore::threads::ExecuteTopLevelFunction(boost::function<void ()> const&)
+__CFRUNLOOP_IS_CALLING_OUT_TO_A_BLOCK__
+__CFRunLoopDoBlocks
+__CFRunLoopRun
+CFRunLoopRunSpecific
+RunCurrentEventLoopInMode
+ReceiveNextEventCommon
+_BlockUntilNextEventMatchingListInModeWithFilter
+_DPSNextEvent
+-[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:]
+-[NSApplication run]
+exo::app::OS_AppBase::RunEventLoop()
+AME::RunTheApp(exo::app::AppInitArgs&, std::__1::vector<std::__1::basic_string<unsigned short, std::__1::char_traits<unsigned short>, dvacore::utility::SmallBlockAllocator::STLAllocator<unsigned short> >, std::__1::allocator<std::__1::basic_string<unsigned short, std::__1::char_traits<unsigned short>, dvacore::utility::SmallBlockAllocator::STLAllocator<unsigned short> > > >&)
+main
+start
+??? <1>
+
+
+Ticks = 33668      <4396062144> <Assert> <0> Debug Assert failed!
+Expression: false
+Unknown exception
+Process: Adobe Media Encoder CC 2018
+Process ID: 2554
+Thread ID: 4396062144
+File: /ame12.1.1/shared/adobe/MediaCore/ASL/Foundation/Src/DVAErrorManager.cpp
+Line: 54
+Function: virtual std::int32_t ASL::DVAErrorManager::ExecuteFunctionWithTopLevelExceptionHandler(boost::function0<std::int32_t>)
+Callstack:
+ASL::DVAErrorManager::ExecuteFunctionWithTopLevelExceptionHandler(boost::function0<int>)
+ASL::Broadcaster::BroadcastMessage(ASL::Message const&)
+ASL::StationUtils::BroadcastMessage(dvacore::utility::ImmutableString const&, ASL::Message const&)
+AMEBatch::BatchEncoder::OnUpdateProgress(ASL::InterfaceRef<AMEBatch::BatchItem, AMEBatch::IBatchItem>, float) const
+AMEBatch::BatchEncoder::EncodingItemList::OnEncodeProgress(ASL::InterfaceRef<EncoderHost::IEncoder, EncoderHost::IEncoder>, float)
+boost::_bi::bind_t<void, boost::_mfi::mf2<void, AMEBatch::BatchEncoder::EncodingItemList, ASL::InterfaceRef<EncoderHost::IEncoder, EncoderHost::IEncoder>, float>, boost::_bi::list3<boost::_bi::value<AMEBatch::BatchEncoder::EncodingItemList*>, boost::_bi::value<ASL::InterfaceRef<EncoderHost::IEncoder, EncoderHost::IEncoder> >, boost::_bi::value<float> > >::operator()()
+dvacore::threads::(anonymous namespace)::FunctionQueue::FlushFromExecutorThread(bool)
+boost::detail::function::void_function_obj_invoker0<boost::function<void ()>, void>::invoke(boost::detail::function::function_buffer&)
+int dvacore::config::ErrorManager::ExecuteFunction<void>(boost::function0<void>*, void*)
+ASL::DVAErrorManager::ExecuteFunctionWithTopLevelExceptionHandler(boost::function0<int>)
+void dvacore::config::ErrorManager::ExecuteFunctionWithTopLevelExceptionHandler<void>(boost::function0<void>, bool*)
+void dvacore::config::ExecuteTopLevelFunction<void>(boost::function0<void>, bool*)
+dvacore::threads::ExecuteTopLevelFunction(boost::function<void ()> const&)
+__CFRUNLOOP_IS_CALLING_OUT_TO_A_BLOCK__
+__CFRunLoopDoBlocks
+__CFRunLoopRun
+CFRunLoopRunSpecific
+RunCurrentEventLoopInMode
+ReceiveNextEventCommon
+_BlockUntilNextEventMatchingListInModeWithFilter
+_DPSNextEvent
+-[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:]
+-[NSApplication run]
+exo::app::OS_AppBase::RunEventLoop()
+AME::RunTheApp(exo::app::AppInitArgs&, std::__1::vector<std::__1::basic_string<unsigned short, std::__1::char_traits<unsigned short>, dvacore::utility::SmallBlockAllocator::STLAllocator<unsigned short> >, std::__1::allocator<std::__1::basic_string<unsigned short, std::__1::char_traits<unsigned short>, dvacore::utility::SmallBlockAllocator::STLAllocator<unsigned short> > > >&)
+main
+start
+??? <1>
+
+
+Ticks = 33713      <4396062144> <Assert> <0> Debug Assert failed!
+Expression: false
+Unknown exception
+Process: Adobe Media Encoder CC 2018
+Process ID: 2554
+Thread ID: 4396062144
+File: /ame12.1.1/shared/adobe/MediaCore/ASL/Foundation/Src/DVAErrorManager.cpp
+Line: 54
+Function: virtual std::int32_t ASL::DVAErrorManager::ExecuteFunctionWithTopLevelExceptionHandler(boost::function0<std::int32_t>)
+Callstack:
+ASL::DVAErrorManager::ExecuteFunctionWithTopLevelExceptionHandler(boost::function0<int>)
+ASL::Broadcaster::BroadcastMessage(ASL::Message const&)
+ASL::StationUtils::BroadcastMessage(dvacore::utility::ImmutableString const&, ASL::Message const&)
+AMEBatch::BatchEncoder::OnUpdateProgress(ASL::InterfaceRef<AMEBatch::BatchItem, AMEBatch::IBatchItem>, float) const
+AMEBatch::BatchEncoder::EncodingItemList::OnEncodeProgress(ASL::InterfaceRef<EncoderHost::IEncoder, EncoderHost::IEncoder>, float)
+boost::_bi::bind_t<void, boost::_mfi::mf2<void, AMEBatch::BatchEncoder::EncodingItemList, ASL::InterfaceRef<EncoderHost::IEncoder, EncoderHost::IEncoder>, float>, boost::_bi::list3<boost::_bi::value<AMEBatch::BatchEncoder::EncodingItemList*>, boost::_bi::value<ASL::InterfaceRef<EncoderHost::IEncoder, EncoderHost::IEncoder> >, boost::_bi::value<float> > >::operator()()
+dvacore::threads::(anonymous namespace)::FunctionQueue::FlushFromExecutorThread(bool)
+boost::detail::function::void_function_obj_invoker0<boost::function<void ()>, void>::invoke(boost::detail::function::function_buffer&)
+int dvacore::config::ErrorManager::ExecuteFunction<void>(boost::function0<void>*, void*)
+ASL::DVAErrorManager::ExecuteFunctionWithTopLevelExceptionHandler(boost::function0<int>)
+void dvacore::config::ErrorManager::ExecuteFunctionWithTopLevelExceptionHandler<void>(boost::function0<void>, bool*)
+void dvacore::config::ExecuteTopLevelFunction<void>(boost::function0<void>, bool*)
+dvacore::threads::ExecuteTopLevelFunction(boost::function<void ()> const&)
+__CFRUNLOOP_IS_CALLING_OUT_TO_A_BLOCK__
+__CFRunLoopDoBlocks
+__CFRunLoopRun
+CFRunLoopRunSpecific
+RunCurrentEventLoopInMode
+ReceiveNextEventCommon
+_BlockUntilNextEventMatchingListInModeWithFilter
+_DPSNextEvent
+-[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:]
+-[NSApplication run]
+exo::app::OS_AppBase::RunEventLoop()
+AME::RunTheApp(exo::app::AppInitArgs&, std::__1::vector<std::__1::basic_string<unsigned short, std::__1::char_traits<unsigned short>, dvacore::utility::SmallBlockAllocator::STLAllocator<unsigned short> >, std::__1::allocator<std::__1::basic_string<unsigned short, std::__1::char_traits<unsigned short>, dvacore::utility::SmallBlockAllocator::STLAllocator<unsigned short> > > >&)
+main
+start
+??? <1>
+
+
+Ticks = 33733      <123145399922688> <EncoderStateH264> <1> Encoded using H/W codec for H.264
+Ticks = 33756      <123145399922688> <EncoderStateH264> <1> Time taken for; video =0 audio=17 mux=12
+Ticks = 33756      <123145399922688> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 0.943318 seconds. Result code: 0 Destination:/Users/graphic/Google Drive/School/IMM/Winter Semester/Media Production/A2 - Gif/Spectrum/GIF_AME/Facebook-Ad_AME/Spectrum.mp4
+Ticks = 33772      <4396062144> <Assert> <0> Debug Assert failed!
+Expression: false
+Unknown exception
+Process: Adobe Media Encoder CC 2018
+Process ID: 2554
+Thread ID: 4396062144
+File: /ame12.1.1/shared/adobe/MediaCore/ASL/Foundation/Src/DVAErrorManager.cpp
+Line: 54
+Function: virtual std::int32_t ASL::DVAErrorManager::ExecuteFunctionWithTopLevelExceptionHandler(boost::function0<std::int32_t>)
+Callstack:
+ASL::DVAErrorManager::ExecuteFunctionWithTopLevelExceptionHandler(boost::function0<int>)
+ASL::Broadcaster::BroadcastMessage(ASL::Message const&)
+ASL::StationUtils::BroadcastMessage(dvacore::utility::ImmutableString const&, ASL::Message const&)
+AMEBatch::BatchEncoder::OnUpdateProgress(ASL::InterfaceRef<AMEBatch::BatchItem, AMEBatch::IBatchItem>, float) const
+AMEBatch::BatchEncoder::OnEncodeComplete(ASL::InterfaceRef<AMEBatch::BatchItem, AMEBatch::IBatchItem>, bool)
+AMEBatch::BatchEncoder::EncodingItemList::OnEncodeComplete(ASL::InterfaceRef<EncoderHost::IEncoder, EncoderHost::IEncoder>)
+boost::detail::function::void_function_obj_invoker0<boost::_bi::bind_t<void, boost::_mfi::mf1<void, AMEBatch::BatchEncoder::EncodingItemList, ASL::InterfaceRef<EncoderHost::IEncoder, EncoderHost::IEncoder> >, boost::_bi::list2<boost::_bi::value<AMEBatch::BatchEncoder::EncodingItemList*>, boost::_bi::value<ASL::InterfaceRef<EncoderHost::IEncoder, EncoderHost::IEncoder> > > >, void>::invoke(boost::detail::function::function_buffer&)
+dvacore::threads::(anonymous namespace)::FunctionQueue::FlushFromExecutorThread(bool)
+boost::detail::function::void_function_obj_invoker0<boost::function<void ()>, void>::invoke(boost::detail::function::function_buffer&)
+int dvacore::config::ErrorManager::ExecuteFunction<void>(boost::function0<void>*, void*)
+ASL::DVAErrorManager::ExecuteFunctionWithTopLevelExceptionHandler(boost::function0<int>)
+void dvacore::config::ErrorManager::ExecuteFunctionWithTopLevelExceptionHandler<void>(boost::function0<void>, bool*)
+void dvacore::config::ExecuteTopLevelFunction<void>(boost::function0<void>, bool*)
+dvacore::threads::ExecuteTopLevelFunction(boost::function<void ()> const&)
+__CFRUNLOOP_IS_CALLING_OUT_TO_A_BLOCK__
+__CFRunLoopDoBlocks
+__CFRunLoopRun
+CFRunLoopRunSpecific
+RunCurrentEventLoopInMode
+ReceiveNextEventCommon
+_BlockUntilNextEventMatchingListInModeWithFilter
+_DPSNextEvent
+-[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:]
+-[NSApplication run]
+exo::app::OS_AppBase::RunEventLoop()
+AME::RunTheApp(exo::app::AppInitArgs&, std::__1::vector<std::__1::basic_string<unsigned short, std::__1::char_traits<unsigned short>, dvacore::utility::SmallBlockAllocator::STLAllocator<unsigned short> >, std::__1::allocator<std::__1::basic_string<unsigned short, std::__1::char_traits<unsigned short>, dvacore::utility::SmallBlockAllocator::STLAllocator<unsigned short> > > >&)
+main
+start
+??? <1>
+
+
+Ticks = 225627      <4396062144> <AMEApp> <1> Exited RunEventLoop
+Ticks = 225771      <4396062144> <ALOG> <5> U U_SetMemoryInUseAdjustment setting adjustment from -5591621632 to 0
+Ticks = 225771      <4396062144> <BEE_WorkQueue> <5> BEE_WorkQueue_PreCloseProject start
+Ticks = 225771      <4396062144> <BEE_WorkQueue> <5> BEE_WorkQueue_PreCloseProject end
+Ticks = 225773      <4396062144> <ALOG> <5> MC MC_StopAllAsyncWork MC_StopAllAsyncWork
+Ticks = 225774      <4396062144> <ALOG> <5> BEE Death BEE Death
+Ticks = 225775      <4396062144> <ALOG> <5> BEE Command Set Scrap
+Ticks = 225777      <4396062144> <ALOG> <5> PR Death PR Death
+Ticks = 225778      <4396062144> <ALOG> <5> FLT Death FLT Death
+Ticks = 225810      <4396062144> <ALOG> <5> OM Death OM Death
+Ticks = 225810      <4396062144> <ALOG> <5> SND Death SND Death
+Ticks = 225810      <4396062144> <ALOG> <5> PIN Death PIN Death
+Ticks = 225810      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225810      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225810      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225810      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225810      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225810      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225810      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225810      <4396062144> <ALOG> <5> PIN Death PIN PS Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN CIN Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN EI Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN PS Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN YM Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN PS Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN JSX Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN PS3 Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN RLA Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN PS Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN PS Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN ZPIC Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN PS Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225811      <4396062144> <ALOG> <5> PIN Death PIN MC Death
+Ticks = 225817      <123145434783744> <ALOG> <5> COR CORp_ShutdownPSL successfully shutdown AdobePSL
+Ticks = 225817      <4396062144> <ALOG> <5> TXT Death TXT Death
+Ticks = 225817      <4396062144> <ALOG> <5> TXT Death TXT_ShutdownGlobalDocumentResources called successfully.
+Ticks = 225817      <4396062144> <ALOG> <5> TXT Death TXT_FontServer::FontServer ()->FreeFontServer() called successfully.
+Ticks = 225817      <4396062144> <ALOG> <5> TXT Death SLO::FreeAutoPtrInternalMemory() called successfully.
+Ticks = 225817      <4396062144> <ALOG> <5> TXT Death SLO::SLOTerminate () called successfully.
+Ticks = 225818      <4396062144> <ALOG> <5> TXT Death COR_BIBCLIENTTERMINATE_IF_NEEDED called successfully.
+Ticks = 225818      <4396062144> <ALOG> <5> TXT Death U_Context::UnregisterState(TXT_GlobalState::S_Name) called successfully.
+Ticks = 225818      <4396062144> <ALOG> <5> P Death P Death
+Ticks = 225818      <4396062144> <ALOG> <5> PF Death PF Death
+Ticks = 225818      <4396062144> <ALOG> <5> TDB Death TDB Death
+Ticks = 225818      <4396062144> <ALOG> <5> TDB Death TDB StreamBase Death
+Ticks = 225818      <4396062144> <ALOG> <5> PLUG Death PLUG Death
+Ticks = 225842      <4396062144> <ALOG> <5> MC Death MC Death
+Ticks = 225843      <4396062144> <ALOG> <5> VAL Death VAL Death
+Ticks = 225843      <4396062144> <ALOG> <5> PREF Death PREF Death
+Ticks = 225844      <4396062144> <ALOG> <5> RND Death RND Death
+Ticks = 225844      <4396062144> <ALOG> <5> M Death M Death
+Ticks = 225844      <4396062144> <ALOG> <5> FILE Death FILE Death
+Ticks = 225844      <4396062144> <ALOG> <5> U Death U Death
+-------------------------------------------
+Log file closed: Tue Mar 12 11:51:38 2019
+

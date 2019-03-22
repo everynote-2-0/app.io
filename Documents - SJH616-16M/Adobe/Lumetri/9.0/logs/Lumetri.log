@@ -1,0 +1,20 @@
+Machine:   SJH616-16M.local in domain 
+User:      graphic
+Mode:      64-Bit
+Display:   Display not detectable
+Driver:    Driver not detectable
+CPU:       Name: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz
+           Model: 158, Family: 6, Stepping: 9 
+           Total Threads: 8
+           Features: MMX SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2 AVX F16C FMA AVX2 RDTSCP CLMUL AES RDRAND RDSEED POPCNT ABM BMI BMI2 ADX MOVBE
+Base path: /Applications/Adobe After Effects CC 2019/Adobe After Effects CC 2019.app/Contents/aerendercore.app/Contents/MacOS/
+Arguments: 
+
+14:04:26 [IrLog]           LogFile initialized
+14:04:26 [GlobalSettings]  Loading user settings from /Users/graphic/Documents/Adobe/Lumetri/9.0/s14:10:03 [GlobalSettings]  Last object UID: 0x00000001
+14:10:03 [IrLog]           Closing log file
+
+12/07/18
+losing log file
+
+12/07/18

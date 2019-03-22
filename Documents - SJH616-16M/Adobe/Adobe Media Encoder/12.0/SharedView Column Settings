@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PremiereData Version="3">
+	<providers Version="2">
+		<providercount>2</providercount>
+		<provider.1 Version="1">
+			<columncount>1</columncount>
+			<providername>com.adobe.Premiere.ProviderEAServer</providername>
+			<column.0 Version="1">
+				<width>170.</width>
+				<field>Name</field>
+			</column.0>
+		</provider.1>
+		<provider.0 Version="1">
+			<columncount>1</columncount>
+			<providername>com.adobe.Premiere.ProviderAEProject</providername>
+			<column.0 Version="1">
+				<width>170.</width>
+				<field>Name</field>
+			</column.0>
+		</provider.0>
+	</providers>
+</PremiereData>
