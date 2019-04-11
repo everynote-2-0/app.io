@@ -1,18 +1,18 @@
-Machine:   SJH616-16M.local in domain 
-User:      graphic
+Machine:   Brunos-MBP in domain 
+User:      brunobonfim
 Mode:      64-Bit
 Display:   Display not detectable
 Driver:    Driver not detectable
-CPU:       Name: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz
-           Model: 158, Family: 6, Stepping: 9 
+CPU:       Name: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
+           Model: 142, Family: 6, Stepping: 10 
            Total Threads: 8
            Features: MMX SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2 AVX F16C FMA AVX2 RDTSCP CLMUL AES RDRAND RDSEED POPCNT ABM BMI BMI2 ADX MOVBE
 Base path: /Applications/Adobe After Effects CC 2019/Adobe After Effects CC 2019.app/Contents/MacOS/
 Arguments: 
 
-16:18:37 [IrLog]           LogFile initialized
-16:18:37 [GlobalSettings]  Loading user settings from /Users/graphic/Documents/Adobe/Lumetri/9.0/settings/User_Settings.xml
-18:56:55 [GlobalSettings]  Last object UID: 0x00000001
-18:56:55 [IrLog]           Closing log file
+20:33:27 [IrLog]           LogFile initialized
+20:33:27 [GlobalSettings]  Loading user settings from /Users/brunobonfim/Documents/Adobe/Lumetri/9.0/settings/User_Settings.xml
+15:30:49 [GlobalSettings]  Last object UID: 0x00000001
+15:30:49 [IrLog]           Closing log file
 
-03/26/19
+04/08/19
