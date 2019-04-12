@@ -1,4 +1,4 @@
-Machine:   Brunos-MBP in domain 
+Machine:   Brunos-MacBook-Pro.local in domain 
 User:      brunobonfim
 Mode:      64-Bit
 Display:   Display not detectable
@@ -10,9 +10,5 @@ CPU:       Name: Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz
 Base path: /Applications/Adobe After Effects CC 2019/Adobe After Effects CC 2019.app/Contents/MacOS/
 Arguments: 
 
-20:33:27 [IrLog]           LogFile initialized
-20:33:27 [GlobalSettings]  Loading user settings from /Users/brunobonfim/Documents/Adobe/Lumetri/9.0/settings/User_Settings.xml
-15:30:49 [GlobalSettings]  Last object UID: 0x00000001
-15:30:49 [IrLog]           Closing log file
-
-04/08/19
+16:12:32 [IrLog]           LogFile initialized
+16:12:32 [GlobalSettings]  Loading user settings from /Users/brunobonfim/Documents/Adobe/Lumetri/9.0/settings/User_Settings.xml

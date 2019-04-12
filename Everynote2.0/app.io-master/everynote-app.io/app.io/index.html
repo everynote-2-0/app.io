@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <meta name="EveryNote" content="">
+    <meta name="Bruno Bini & Denver Rodrigues" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/main.css">
+  </head>
+  <body>
+    <header>
+     <div class="topbar">
+
+       <div><img src="img/Hmenu.png" alt="Menu"  width="32" height="32"></div>
+
+       <div class="Logo"><h1>Every Note</h1></div>
+
+      <div><img src="img/profile.png" alt="profile" width="22" height="22"></div>
+    
+       
+     </div>
+    </header>
+   
+      </header>
+
+      <form id="newItem" class="newitem" autocomplete="off">
+        <label for="item" class="line-label">TASK</label>
+        <div class="addnew">
+          <input type="text" name="item" id="item" class="form-component inpt" placeholder="What do you need?" required>
+          <input type="submit" value="Add" class="form-component btn">
+        </div>
+      </form>
+
+      <form id="filterCategories">
+        <ul class="filters">
+          <li><input type="radio" name="category" value="all" id="filterAll" checked><label for="filterAll">All</label></li>
+          <li><input type="radio" name="category" value="3D" id="filter3D"><label for="filter3D">3D</label></li>
+          <li><input type="radio" name="category" value="Prototype" id="filterPrototype"><label for="filterPrototype">Prototype</label></li>
+          <li><input type="radio" name="category" value="Web-Development" id="filterWeb-Development"><label for="filterWeb-Development">Web-Development</label></li>
+        </ul>
+      </form>
+
+      <ul id="shoppinglist" class="shoppinglist">
+        <li class="fruit">2 Apples</li>
+      </ul>
+    </main>
+
+    <!-- <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script> -->
+    <script src="js/main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,115 @@
+body {
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+    font-color: black;
+    font-family: Helvetica, sans-serif;
+  }
+  
+  .layout {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 40% 40%;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 30px;
+  
+  }
+  
+  .topbar {
+    background-color: rgb(28, 206, 111);
+    padding: 1.5em;
+    text-align: center;
+    margin: auto;
+    display: grid;
+    grid-template-columns: auto  60% auto;
+  }
+
+  h1 {
+    font-weight: bold;
+    color:black;
+    font-size: 18px;
+  
+    margin: 0px;
+    padding: 0px;
+  }
+
+
+.newitem {
+    padding: 1em;
+}
+.addnew {
+    display: grid;
+
+}
+.line-label {
+    display: block;
+    font: bold 0.8em helvetica;
+}
+.form-component {
+    font: 1.2em georgia;
+    border: none;
+    border-bottom:3px solid #eee;
+    line-height: 1;
+    padding: 0.5em;
+    vertical-align: middle;
+    height: 2em;
+    margin: 0.25em 0;
+}
+.form-component:focus {
+    outline: none;
+    border-bottom:3px solid black;
+}
+.form-component.inpt {
+    padding: 0.5em 0em;
+}
+.form-component.btn {
+    background-color: #eee;
+}
+
+.filters {
+    margin: 1em 0;
+    padding: 0 1.5em;
+    font: bold 0.8em helvetica;
+}
+.filters li { 
+    display:inline-block;
+    margin-right: 1em;
+    line-height: 1.5;
+}
+.filters input {
+    display: none;
+}
+.filters input:checked + label {
+    border-bottom: 3px solid black;
+}
+.shoppinglist {
+    /* border-bottom: 1px solid #eee; */
+}
+.shoppinglist li {
+    padding: 0.5em 1.5em;
+    position: relative;
+    /* border-top: 1px solid #eee; */
+}
+.shoppinglist li:before {
+    content: "";
+    display: block;
+    width: 0.5em;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #eee;
+}
+.shoppinglist li.fruit:before { background-color: tomato; }
+.shoppinglist li.veg:before { background-color: dodgerblue; }
+.shoppinglist li.dry:before { background-color: gold; }
+
+
+@media screen and (min-width: 40em) {
+    body {
+        font: 1.5em georgia;
+    }
+    .addnew {
+        grid-template-columns: 1fr auto;
+    }
+}
