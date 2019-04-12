@@ -1,6 +1,6 @@
 // item is the variable (object), qty & name are properties ("props")
 const formNew = document.getElementById('newItem');
-const theList = document.getElementById('shoppinglist');
+const theList = document.getElementById('taskList');
 const catFilter = document.getElementById('filterCategories');
 
 
