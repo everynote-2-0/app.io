@@ -6,8 +6,10 @@ AnywhereLocalClient	1	5
 AudioDevice	1	5
 BE.MessagePool	1	5
 BEE_WorkQueue	1	5
+BEE_WorkQueue.Progress	1	5
 Banana	1	5
 Batch	1	5
+DBSync	1	5
 DS	1	5
 DVAAudioDeviceHost	1	5
 DynamicLink	1	5
@@ -41,14 +43,18 @@ Plug_Scan	1	5
 PostProcessBaseUploader	1	5
 PostProcessorBehance	1	5
 PostProcessorStock	1	5
+RecoverableErrorProcessor.Error	1	5
 RecoverableErrorProcessor.Inform	1	5
 RecoverableErrorProcessor.Warn	1	5
 RedGPUMemory	1	5
 SWHostRenderClipPrefetch	1	5
 Server	1	5
 U	1	5
+U_Context	1	5
 U_THREADS	1	5
 Vimeo	1	5
+VulcanClientImpl	1	5
+ZANZIBAR Hunter	1	5
 drawbotagm	1	5
 dvaaudiodevice	1	5
 dvacore::config::Initialize	1	5

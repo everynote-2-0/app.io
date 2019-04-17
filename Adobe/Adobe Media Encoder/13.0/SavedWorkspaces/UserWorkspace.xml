@@ -543,8 +543,8 @@
 <key>SzPos</key>
 <array>
 <array.type><int type='signed' size='32'/></array.type>
-<int type='signed' size='32'>75</int>
-<int type='signed' size='32'>74</int>
+<int type='signed' size='32'>60</int>
+<int type='signed' size='32'>141</int>
 <int type='signed' size='32'>1280</int>
 <int type='signed' size='32'>734</int>
 </array>
@@ -556,8 +556,8 @@
 <key>CurrState</key>
 <array>
 <array.type><int type='signed' size='32'/></array.type>
-<int type='signed' size='32'>75</int>
-<int type='signed' size='32'>74</int>
+<int type='signed' size='32'>60</int>
+<int type='signed' size='32'>141</int>
 <int type='signed' size='32'>1280</int>
 <int type='signed' size='32'>734</int>
 </array>
