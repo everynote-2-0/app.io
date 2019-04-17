@@ -33,7 +33,6 @@ body {
     padding: 0px;
   }
 
-
 .newitem {
     padding: 1em;
 }
@@ -82,15 +81,15 @@ body {
 .filters input:checked + label {
     border-bottom: 3px solid black;
 }
-.shoppinglist {
+.taskList {
     /* border-bottom: 1px solid #eee; */
 }
-.shoppinglist li {
+.taskList li {
     padding: 0.5em 1.5em;
     position: relative;
     /* border-top: 1px solid #eee; */
 }
-.shoppinglist li:before {
+.taskList li:before {
     content: "";
     display: block;
     width: 0.5em;
@@ -100,9 +99,9 @@ body {
     left: 0;
     background-color: #eee;
 }
-.shoppinglist li.fruit:before { background-color: tomato; }
-.shoppinglist li.veg:before { background-color: dodgerblue; }
-.shoppinglist li.dry:before { background-color: gold; }
+.taskList li.3D:before { background-color: tomato; }
+.taskList li.Prototype:before { background-color: dodgerblue; }
+.taskList li.Web-Development:before { background-color: gold; }
 
 
 @media screen and (min-width: 40em) {

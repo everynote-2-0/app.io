@@ -3,6 +3,12 @@
 	<Preferences ObjectRef="1"/>
 	<Preferences ObjectID="1" ClassID="f06902ec-e637-4744-a586-c26202143e36" Version="30">
 		<Properties Version="1">
+			<ATE.Shape.MiterLimit>2.5</ATE.Shape.MiterLimit>
+			<ATE.Shape.LineCap>0</ATE.Shape.LineCap>
+			<ATE.Shape.LineJoin>0</ATE.Shape.LineJoin>
+			<ATE.Text.MiterLimit>2.5</ATE.Text.MiterLimit>
+			<ATE.Text.LineCap>0</ATE.Text.LineCap>
+			<ATE.Text.LineJoin>0</ATE.Text.LineJoin>
 			<BE.Prefs.Multicam.TransmitGridView>false</BE.Prefs.Multicam.TransmitGridView>
 			<Project.Prefs.EnablehHWAcceleratedDecode>true</Project.Prefs.EnablehHWAcceleratedDecode>
 			<FE.Prefs.Debug.PlayScroll.Mode>1</FE.Prefs.Debug.PlayScroll.Mode>

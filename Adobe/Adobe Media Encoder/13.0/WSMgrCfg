@@ -28,8 +28,8 @@
 <key>CurrState</key>
 <array>
 <array.type><int type='signed' size='32'/></array.type>
-<int type='signed' size='32'>0</int>
-<int type='signed' size='32'>23</int>
+<int type='signed' size='32'>75</int>
+<int type='signed' size='32'>74</int>
 <int type='signed' size='32'>1280</int>
 <int type='signed' size='32'>734</int>
 </array>
@@ -40,8 +40,8 @@
 <array.type><int type='signed' size='32'/></array.type>
 <int type='signed' size='32'>23</int>
 <int type='signed' size='32'>0</int>
-<int type='signed' size='32'>1397</int>
-<int type='signed' size='32'>2560</int>
+<int type='signed' size='32'>857</int>
+<int type='signed' size='32'>1440</int>
 </array>
 </prop.pair>
 </prop.list>
@@ -50,7 +50,7 @@
 <key>ModifiedTimes</key>
 <array>
 <array.type><string/></array.type>
-<string>20190311T144508</string>
+<string>20190416T223757</string>
 </array>
 </prop.pair>
 <prop.pair>

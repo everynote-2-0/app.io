@@ -4,7 +4,7 @@ const theList = document.getElementById('taskList');
 const catFilter = document.getElementById('filterCategories');
 
 
-let shoppingList = [
+let taskList = [
     { qty: 4, name: `Update GitHub`, cat: `Web-Development` },
     { qty: 5, name: `Create Storyboard`, cat: `3D`  },
     { qty: 1, name: `Installation Prep`, cat: `Prototype`  },
@@ -13,7 +13,7 @@ let shoppingList = [
 ];
 
 // Print any array
-function printList(list = shoppingList) {
+function printList(list = taskList) {
 
     // Check the value of the category filter (radio)
     let filterBy = catFilter.category.value;
@@ -33,7 +33,7 @@ formNew.addEventListener('submit', event => {
     let item = formNew.item.value;
 
     // Push a new "item" onto the shoppinglist Array
-    shoppingList.push({ qty: 1, name: item, cat: false })
+    taskList.push({ qty: 1, name: item, cat: false })
 
     // Clear out the input field (the entire form, actually)
     formNew.reset();
